@@ -2,7 +2,7 @@
 - 👀 I’m interested in the application of data analytics in health and medical settings (particularly radiology). Other interests include infrastructure, agriculture, cybersecurity and mining
 - 🌱 I’m currently developing in R
 - 💞️ I’m looking to collaborate on anything related to radiology! 
-- 📫 How to reach me: <a href="https://www.linkedin.com/in/naru-thanuwohan-5b2495141/">LinkedIn</a> or <a href="">naruthanuwohan@gmail.com</a> 
+- 📫 How to reach me: <a href="https://www.linkedin.com/in/naru-thanuwohan-5b2495141/">LinkedIn</a> or by<a href="naruthanuwohan@gmail.com"> email</a> 
   
 
 <!---
